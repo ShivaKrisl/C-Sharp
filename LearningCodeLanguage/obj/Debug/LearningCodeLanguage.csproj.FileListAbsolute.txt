@@ -1,0 +1,7 @@
+D:\Microsoft\C#\Codes\LearningCodeLanguage\bin\Debug\LearningCodeLanguage.exe.config
+D:\Microsoft\C#\Codes\LearningCodeLanguage\bin\Debug\LearningCodeLanguage.exe
+D:\Microsoft\C#\Codes\LearningCodeLanguage\bin\Debug\LearningCodeLanguage.pdb
+D:\Microsoft\C#\Codes\LearningCodeLanguage\obj\Debug\LearningCodeLanguage.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\LearningCodeLanguage\obj\Debug\LearningCodeLanguage.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\LearningCodeLanguage\obj\Debug\LearningCodeLanguage.exe
+D:\Microsoft\C#\Codes\LearningCodeLanguage\obj\Debug\LearningCodeLanguage.pdb
